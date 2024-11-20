@@ -13,6 +13,7 @@ body {
     border-style: dashed dotted solid double;
     border-color: green blue pink black;
     border-radius: 3%;
+    padding: 10px 20px;
     /* create a div, add border style and color to ur div
     1. the border color should take this pattern:
     right: blue, left:black, top:green, botton:pink.
@@ -23,6 +24,7 @@ body {
     border-style: dashed dotted solid double;
     border-color: green blue pink black;
     border-radius: 3%;
+    padding: 10px 20px;
     /* create a div, add border style and color to ur div
     1. the border color should take this pattern:
     right: blue, left:black, top:green, botton:pink.
