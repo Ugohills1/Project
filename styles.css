@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+    text-align: justify;
+    border: 20px 50px 20px 50px;
+    border-style:dashed dotted solid double;
+    border-color: green blue pink black;
+    border-radius: 3%;
+    margin: 20px 50px 10px 50px;
+    padding: 20px 10px 20px 10px;
+    /*border-background, text-align border, margin and padding set;*/
+}
+#first-container {
+    border-style: dashed dotted solid double;
+    border-color: green blue pink black;
+    border-radius: 3%;
+    /* create a div, add border style and color to ur div
+    1. the border color should take this pattern:
+    right: blue, left:black, top:green, botton:pink.
+    2.the border style should take this pattern:
+    right: dotted, left:double, top:dashed, bottom:solid. */
+}
+#second-container {
+    border-style: dashed dotted solid double;
+    border-color: green blue pink black;
+    border-radius: 3%;
+    /* create a div, add border style and color to ur div
+    1. the border color should take this pattern:
+    right: blue, left:black, top:green, botton:pink.
+    2.the border style should take this pattern:
+    right: dotted, left:double, top:dashed, bottom:solid. */
+}
